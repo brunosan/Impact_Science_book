@@ -1,32 +1,38 @@
 ---
-title: Home
-layout: home
+layout: default
+title: "Home"
+nav_order: 1
+description: "The Science of getting to radical social and environmental breakthroughs."
+permalink: /
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+> “Bruno is one of the most creative and thoughtful scientists that I know. In this work, he examines how to use science and technology to make this world a better place - critically important on a changing and increasingly complex planet.” -- *Dr. Ellen Stofan. Former NASA Chief Scientist and
+Director of the Smithsonian National Air and Space Museum*
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+> “If you liked "Freakonomics", you will love this one" -- *Najat Vallaud-Belkacem. Former France Minister of Education and Research*
 
-More specifically, the created site:
+# Impact Science:
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+### The Science of getting to radical social and environmental breakthroughs.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+>To my family
+>To Emma and Sela, who show me what love is
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+Why would a NASA rocket scientist move to Bhutan to plant hazelnuts? How could something as complex as the Ozone hole chemistry lead to the Montreal Protocol, in the words of the UN Secretary General, "The single most successful international agreement?” How can we know so much about climate change and yet fail to move forward? How could basic physics of melting wax save the lives of thousands of babies worldwide?
 
-To get started with creating a site, just click "[use this template]"!
+We have more scientists than ever before, more data than we ever dreamed, and technology in every aspect of life. And yet, with all of the wealth of facts, it seems there is still a stark polarization of opinions and paralysis of action. What is missing? This book explores, via stories of both success and failure, the weakening link between the research-driven scientists focused on understanding and creating knowledge, and the role of scientists integrating an impact-driven attitude. Scientists are good with data, but it is not just about data; it is what we do with it. Facts do not change the world—people do.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+Version: V.8.9
+© 2017-2022 Bruno Sánchez-Andrade Nuño
+This work is licensed under a "Creative Commons Attribution 4.0 International License".
 
-----
+Check the menu on the right (or the button on top on mobile) to access the chapters.
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+[Available on Amazon](https://www.amazon.com/gp/product/B07SN1L4L2/ref=dbs_a_def_rwt_bibl_vppi_i1)
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+---
+Bruno Sánchez-Andrade Nuño, Ph.D. is a scientist, awarded Magna cum Laude for his PhD in astrophysics from the Max Planck Institute in Germany. He was also Mirzayan Science Policy Fellow of the US National Academies of Science, and a Young Global Leader of the World Economic Forum. He was a member of the Global Future Council on Space. He has served on the advisory boards for companies, government bodies, and NGOs—including Inmarsat Development Program, the UAE Statistical Authority, and IamtheCode.
+
+Bruno combines professional experience in academia, private sector, NGOs, and the public sector. At the World Bank’s Innovation Lab, their team led the Institution's Big Data work. He has been postdoctoral researcher in astrophysics on NASA satellites and rockets. At climate change NGO “Gain” he was Director of Science. He was Chief Scientist at high-growth startup Mapbox in Silicon Valley and later Vice President for Social Impact at the satellite company Satellogic.
+
+{% include more.md %}
